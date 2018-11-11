@@ -1,5 +1,5 @@
 "Author: Hamid Mahmoodabadi"
-':|||'
+
 import schedule
 import time
 import requests
