@@ -2,7 +2,7 @@ certifi==2017.4.17
 chardet==3.0.4
 idna==2.5
 requests==2.18.1
-urllib3==1.21.1
+urllib3==1.24.2
 schedule==0.4.3
 bs4==0.0.1
 html2text==2016.9.19
